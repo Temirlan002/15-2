@@ -87,3 +87,5 @@ console.log(40 + 40 * 18 / (1/3))
 
 console.log(40 % 3)
 
+
+console.log(2 - 2)
